@@ -204,7 +204,7 @@ ReviewSense/
 
 ---
 
-## 🔬 Model Training
+##  Model Training
 
 To retrain the models with your own data:
 
